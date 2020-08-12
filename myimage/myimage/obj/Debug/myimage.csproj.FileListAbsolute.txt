@@ -1,0 +1,247 @@
+C:\Users\Samiya\Downloads\myimage\myimage\bin\ApplicationInsights.config
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\csc.exe
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\vbc.exe
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samiya\Downloads\myimage\myimage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samiya\Downloads\myimage\myimage\bin\myimage.dll.config
+C:\Users\Samiya\Downloads\myimage\myimage\bin\myimage.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\myimage.pdb
+C:\Users\Samiya\Downloads\myimage\myimage\bin\EntityFramework.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\EntityFramework.SqlServer.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.Web.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Helpers.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Mvc.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Razor.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Samiya\Downloads\myimage\myimage\bin\EntityFramework.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\EntityFramework.SqlServer.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.Web.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Razor.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Helpers.xml
+C:\Users\Samiya\Downloads\myimage\myimage\bin\System.Web.Mvc.xml
+C:\Users\Samiya\Downloads\myimage\myimage\obj\Debug\myimage.dll
+C:\Users\Samiya\Downloads\myimage\myimage\obj\Debug\myimage.pdb
+C:\Users\Samiya\Downloads\myimage\myimage\obj\Debug\myimage.csprojResolveAssemblyReference.cache
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\ApplicationInsights.config
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\csc.exe
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\vbc.exe
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.dll.config
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.pdb
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.xml
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.csprojResolveAssemblyReference.cache
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.dll
+C:\Users\Arsalannfs\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.pdb
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\ApplicationInsights.config
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\csc.exe
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\vbc.exe
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.dll.config
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\myimage.pdb
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.xml
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.dll
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.pdb
+C:\Users\Samiya\Desktop\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.pdb
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\ApplicationInsights.config
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\csc.exe
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\vbc.exe
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.dll.config
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.pdb
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.dll
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.xml
+C:\Users\asp\Desktop\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\ApplicationInsights.config
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\csc.exe
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\vbc.exe
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.dll.config
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\myimage.pdb
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\EntityFramework.SqlServer.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.Web.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Razor.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Helpers.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\bin\System.Web.Mvc.xml
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.csprojResolveAssemblyReference.cache
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.dll
+C:\Users\Samiya\Downloads\myimage(backend completed)\myimage(admin completed)\myimage\myimage\obj\Debug\myimage.pdb
